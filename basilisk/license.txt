@@ -1,0 +1,11 @@
+Model Information:
+* title:	Basilisk
+* source:	https://sketchfab.com/3d-models/basilisk-dd872aa392a949a09ebdd8dfb20608b7
+* author:	zack_graham (https://sketchfab.com/zack_graham)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Basilisk" (https://sketchfab.com/3d-models/basilisk-dd872aa392a949a09ebdd8dfb20608b7) by zack_graham (https://sketchfab.com/zack_graham) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
